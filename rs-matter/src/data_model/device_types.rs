@@ -31,3 +31,13 @@ pub const DEV_TYPE_ON_SMART_SPEAKER: DeviceType = DeviceType {
     dtype: 0x0022,
     drev: 2,
 };
+
+pub const DEV_TYPE_OVEN: DeviceType = DeviceType {
+    dtype: 0x007B,
+    drev: 2,
+};
+
+pub const DEV_TYPE_TEMPERATURE_CONTROLLED_CABINET: DeviceType = DeviceType {
+    dtype: 0x0071,
+    drev: 2,
+};

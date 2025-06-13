@@ -106,7 +106,14 @@ name = "onoff_light_bt"
 path = "../examples/onoff_light_bt/src/main.rs"
 required-features = ["examples"]
 
+
+[[example]]
+name = "oven"
+path = "../examples/oven/src/main.rs"
+required-features = ["examples"]
+
 # [[example]]
 # name = "speaker"
 # path = "../examples/speaker/src/main.rs"
 # required-features = ["examples"]
+

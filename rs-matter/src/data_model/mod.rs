@@ -27,3 +27,8 @@ pub mod root_endpoint;
 pub mod sdm;
 pub mod subscriptions;
 pub mod system_model;
+pub mod cluster_temperature_control;
+pub mod cluster_temperature_measurement;
+pub mod cluster_refrigerator_and_temperature_controlled_cabinet_mode;
+pub mod cluster_oven_mode;
+pub mod cluster_oven_cavity_operational_state;
